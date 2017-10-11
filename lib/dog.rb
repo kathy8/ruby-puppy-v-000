@@ -9,7 +9,7 @@ class Dog
 
   def self.all
     @@all.each do |song|
-      puts Dog.name
+      puts dog.name
     end
   end
 end
